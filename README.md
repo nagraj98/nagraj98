@@ -41,4 +41,6 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github) 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nagraj98.nagraj98)
+
+
 ![Nagraj's github stats](https://github-readme-stats.vercel.app/api?username=nagraj98&show_icons=true&title_color=EEFCEF&icon_color=EEFCEF&text_color=00B0E0&bg_color=151515)
